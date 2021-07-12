@@ -1,0 +1,1 @@
+isCar:true,Ranking:1,RealName:Lightning McQueen,Vroominess:100,charDevt:10outta10
